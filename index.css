@@ -5,6 +5,10 @@
 	box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 #welcome {
 	font-family: 'Questrial', sans-serif;
 	letter-spacing: 1rem;
